@@ -1,0 +1,5 @@
+store_package\ShoppingCart.class
+store_package\ShoppingCartServlet.class
+store_package\Product.class
+store_package\Listener.class
+store_package\ProductCatalog.class
